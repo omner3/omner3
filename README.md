@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,css,github,html,js,nextjs,py,react,tailwind&perline=14" />
+  </a>
+</p>
 <!--
 **omner3/omner3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
