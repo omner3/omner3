@@ -7,7 +7,7 @@
 <br></br>
 
 - 🔭 I’m currently working on aplications with **React**
-- 🌱 I’m currently learning **Next.js, Python and React Native**
+- 🌱 I’m currently learning **mobile developemnt, Python and React Native**
 - 📖 Always exited to learn something new
 - ❤️‍🔥 I am passionate about creating innovative solutions by developing software
 
